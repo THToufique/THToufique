@@ -18,15 +18,5 @@ I'm a self-taught passionate android developer from Bangladesh
 | <a href="https://github.com/THToufique/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=THToufique&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/THToufique/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=THToufique&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
-#### Top Repositories
-
-
-<a href="https://github.com/THToufique/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=THToufique&repo=github-readme-stats&theme=buefy" />
-</a>
-<a href="https://github.com/THToufique/THToufique.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=THToufique&repo=THToufique.github.io&theme=buefy" />
-</a>
-
 <br />
 <br />
