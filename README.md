@@ -57,6 +57,11 @@ Specialties:
   <img src="https://github-trophies.vercel.app/?username=THToufique&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=4" />
 </div>
 
+## 🐍 Contribution Snake
+<div align="center">
+  <img src="https://raw.githubusercontent.com/THToufique/THToufique/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
+
 ## 📈 Contribution Graph
 <div align="center">
   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=THToufique&theme=tokyo-night" />
