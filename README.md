@@ -1,96 +1,110 @@
-# THToufique
+<!-- 🔥 HERO HEADER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=250&text=THToufique&fontSize=50&color=0:36BCF7,100:0e75b6&fontColor=ffffff" />
+</p>
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Android+Developer;AOSP+Enthusiast;CSE+Student;Building+the+Future!" alt="Typing SVG" />
-</div>
+<h1 align="center">Hi 👋, I'm THToufique</h1>
+<h3 align="center">Android Developer • AOSP Enthusiast • CSE Student</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=THToufique&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=550&lines=Android+Developer;AOSP+Explorer;I+Build+Real+Apps;Always+Learning+New+Things" />
 </p>
 
 ---
 
-> **Android Developer** | **AOSP Enthusiast** | **CSE Student**
+## 🚀 About Me
 
-Welcome to my digital workspace! I'm a self-taught Android developer from Bangladesh 🇧🇩, passionate about crafting innovative mobile experiences and diving deep into Android's open-source ecosystem.
+- 🇧🇩 From Bangladesh  
+- 📱 Focused on **Android Development & AOSP**  
+- 🎓 CSE @ Northern University Bangladesh  
+- ⚙️ Love system-level customization & performance tuning  
+- 💡 Passionate about building real-world impactful apps  
 
-## Current Focus
-- Building cutting-edge Android applications
-- Experimenting with AOSP modifications  
-- Pursuing Computer Science & Engineering at Northern University Bangladesh
+---
 
-## 🎓 Education Journey
-- 🏫 **Mirpur Cantonment Public School and College**, Dhaka
-- 🎓 **Northern University Bangladesh** - Computer Science & Engineering
-
-## 💻 Tech Stack
+## 🧠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,php,android,git,github,vscode" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50"/>
 </p>
 
-```yaml
-Languages:
-  - C/C++
-  - Java  
-  - PHP
-  
-Specialties:
-  - Android Development
-  - AOSP Customization
-  - Mobile App Architecture
-```
+---
 
-## 📊 GitHub Statistics
+## 🔥 Featured Projects
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=THToufique&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=THToufique&layout=compact&theme=tokyonight&border_radius=10"/>
-</div>
+<p align="center">
+  <a href="https://github.com/Lynx-AOSP/android_frameworks_base">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Lynx-AOSP&repo=android_frameworks_base&theme=tokyonight&hide_border=true"/>
+  </a>
+  <a href="https://github.com/Lynx-AOSP/android_packages_apps_Settings">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Lynx-AOSP&repo=android_packages_apps_Settings&theme=tokyonight&hide_border=true"/>
+  </a>
+</p>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=THToufique&theme=tokyonight&border_radius=10" alt="GitHub Streak" />
-</div>
+<p align="center">
+  <i>🔧 Contributions & AOSP Work (Lynx-AOSP)</i>
+</p>
 
-## 🏆 GitHub Trophies
-<div align="center">
-  <img src="https://github-trophies.vercel.app/?username=THToufique&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=4" />
-</div>
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=THToufique&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=THToufique&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img height="165" src="https://streak-stats.demolab.com?user=THToufique&theme=tokyonight&hide_border=true" />
+</p>
+
+---
 
 ## 🐍 Contribution Snake
-<div align="center">
-  <img src="https://raw.githubusercontent.com/THToufique/THToufique/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
 
-## 📈 Contribution Graph
-<div align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=THToufique&theme=tokyo-night" />
-</div>
-
-## 🤝 Let's Connect
-
-<div align="center">
-  
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ancient_modder)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/THToufique)
-
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/THToufique/THToufique/output/github-contribution-grid-snake-dark.svg" />
+</p>
 
 ---
 
-## 💭 Words of Wisdom
+## 🎯 Current Focus
 
-<div align="center">
-  <blockquote>
-    <p><i>"An infinite number of monkeys typing into GNU Emacs would never make a good program."</i></p>
-    <footer>— Linus Torvalds</footer>
-  </blockquote>
-</div>
+- 🔨 Advanced Android Apps  
+- ⚙️ AOSP Custom ROM Development  
+- 📚 Data Structures & System Design  
 
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</div>
+---
+
+## 🌐 Connect With Me
 
 <p align="center">
-  <i>✨ Building the future, one commit at a time ✨</i>
+  <a href="https://t.me/ancient_modder">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
+  </a>
+  <a href="https://github.com/THToufique">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+## 💡 Dev Quote
+
+<p align="center">
+  <i>"Talk is cheap. Show me the code."</i><br/>
+  — Linus Torvalds
+</p>
+
+---
+
+<p align="center">
+  💙 <i>Building the future, one commit at a time</i>
 </p>
