@@ -105,8 +105,6 @@ root@thtoufique:~# █
 
 </div>
 
-> **Note:** The snake animation requires a GitHub Actions workflow. See [Platane/snk](https://github.com/Platane/snk) for setup instructions.
-
 ---
 
 ## 🧠 Quote
