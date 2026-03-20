@@ -1,110 +1,121 @@
-<!-- 🔥 HERO HEADER -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=250&text=THToufique&fontSize=50&color=0:36BCF7,100:0e75b6&fontColor=ffffff" />
-</p>
+<div align="center">
 
-<h1 align="center">Hi 👋, I'm THToufique</h1>
-<h3 align="center">Android Developer • AOSP Enthusiast • CSE Student</h3>
+<!-- HEADER -->
+<img src="https://capsule-render.vercel.app/api?type=venom&height=220&text=root%40thtoufique%3A~%23&fontSize=42&color=0:0a0a0a,100:0d1f1a&fontColor=00ffcc&animation=fadeIn" />
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=550&lines=Android+Developer;AOSP+Explorer;I+Build+Real+Apps;Always+Learning+New+Things" />
-</p>
+<br/>
 
----
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2800&pause=1000&color=00FFCC&center=true&vCenter=true&width=600&lines=Booting+system...;Loading+AOSP+environment...;Initializing+LynxOS+build+chain...;Android+Developer+%7C+AOSP+%7C+Custom+ROM)](https://git.io/typing-svg)
 
-## 🚀 About Me
-
-- 🇧🇩 From Bangladesh  
-- 📱 Focused on **Android Development & AOSP**  
-- 🎓 CSE @ Northern University Bangladesh  
-- ⚙️ Love system-level customization & performance tuning  
-- 💡 Passionate about building real-world impactful apps  
+</div>
 
 ---
 
-## 🧠 Tech Stack
+## 🖥️ Terminal
 
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50"/>
-</p>
+```bash
+root@thtoufique:~# whoami
+THToufique
+
+root@thtoufique:~# cat profile.json
+{
+  "role":       "Android Developer | AOSP Enthusiast | CSE Student",
+  "location":   "Bangladesh 🇧🇩",
+  "education":  "Northern University Bangladesh — CSE",
+  "focus":      ["Custom ROM Development", "AOSP Frameworks", "System Internals"]
+}
+
+root@thtoufique:~# skills --list
+[✔] C / C++
+[✔] Java
+[✔] PHP
+[✔] Android Framework (AOSP / LineageOS)
+[✔] Build System (Soong / Make)
+[✔] Git & GitHub
+
+root@thtoufique:~# ls projects/
+android_frameworks_base/   android_packages_apps_Settings/
+
+root@thtoufique:~# cat projects/android_frameworks_base.url
+https://github.com/Lynx-AOSP/android_frameworks_base
+
+root@thtoufique:~# cat projects/android_packages_apps_Settings.url
+https://github.com/Lynx-AOSP/android_packages_apps_Settings
+
+root@thtoufique:~# cat about.txt
+Low-level Android developer focused on AOSP, custom ROMs,
+and system-level internals. Currently building LynxOS —
+a custom AOSP ROM.
+
+root@thtoufique:~# connect --links
+  GitHub   → https://github.com/THToufique
+  Telegram → https://t.me/ancient_modder
+
+root@thtoufique:~# █
+```
 
 ---
 
-## 🔥 Featured Projects
+## ⚙️ Tech Stack
 
-<p align="center">
-  <a href="https://github.com/Lynx-AOSP/android_frameworks_base">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Lynx-AOSP&repo=android_frameworks_base&theme=tokyonight&hide_border=true"/>
-  </a>
-  <a href="https://github.com/Lynx-AOSP/android_packages_apps_Settings">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Lynx-AOSP&repo=android_packages_apps_Settings&theme=tokyonight&hide_border=true"/>
-  </a>
-</p>
+<div align="center">
 
-<p align="center">
-  <i>🔧 Contributions & AOSP Work (Lynx-AOSP)</i>
-</p>
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-004488?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-161b22?style=for-the-badge&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+</div>
+
+---
+
+## 📌 Featured Projects
+
+| Project | Description |
+|---|---|
+| [**android_frameworks_base**](https://github.com/Lynx-AOSP/android_frameworks_base) | LynxOS frameworks/base — utility classes, theme engine, system patches |
+| [**android_packages_apps_Settings**](https://github.com/Lynx-AOSP/android_packages_apps_Settings) | LynxOS Settings
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=THToufique&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=THToufique&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img height="165" src="https://streak-stats.demolab.com?user=THToufique&theme=tokyonight&hide_border=true" />
-</p>
+<img height="155" src="https://github-readme-stats.vercel.app/api?username=THToufique&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ffcc&icon_color=00ffcc&text_color=c9d1d9"/>
+<img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=THToufique&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ffcc&text_color=c9d1d9"/>
 
----
+<br/>
 
-## 🐍 Contribution Snake
+<img height="145" src="https://streak-stats.demolab.com?user=THToufique&theme=tokyonight&hide_border=true&background=0d1117&ring=00ffcc&fire=00ffcc&currStreakLabel=00ffcc"/>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/THToufique/THToufique/output/github-contribution-grid-snake-dark.svg" />
-</p>
+</div>
 
 ---
 
-## 🎯 Current Focus
+## 🐍 Contribution Graph
 
-- 🔨 Advanced Android Apps  
-- ⚙️ AOSP Custom ROM Development  
-- 📚 Data Structures & System Design  
+<div align="center">
 
----
+![Snake animation](https://raw.githubusercontent.com/THToufique/THToufique/output/github-contribution-grid-snake-dark.svg)
 
-## 🌐 Connect With Me
+</div>
 
-<p align="center">
-  <a href="https://t.me/ancient_modder">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
-  </a>
-  <a href="https://github.com/THToufique">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
+> **Note:** The snake animation requires a GitHub Actions workflow. See [Platane/snk](https://github.com/Platane/snk) for setup instructions.
 
 ---
 
-## 💡 Dev Quote
+## 🧠 Quote
 
-<p align="center">
-  <i>"Talk is cheap. Show me the code."</i><br/>
-  — Linus Torvalds
-</p>
+<div align="center">
+
+*"Talk is cheap. Show me the code."*
+— Linus Torvalds
+
+</div>
 
 ---
-
-<p align="center">
-  💙 <i>Building the future, one commit at a time</i>
-</p>
